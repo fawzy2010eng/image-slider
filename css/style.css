@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 10% 10% 10% 20%
+}
+div{
+    
+}
+img{
+    width: 80%;
+    height: 80%;
+    border: 5px solid #3e92cc
+}
+.fas{
+    position: fixed;
+    top: 50%;
+    left: 13%;
+    font-size: 32px;
+    bottom: 200px;
+    color: #3e92cc;
+    font-size: 52px;
+    cursor: pointer;
+        
+}
+.fas:hover{
+}
+#left{
+    left: 18%;
+}
+#right{
+    left: 76.5%;
+}
